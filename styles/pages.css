@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(medias/tela-home.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-color: black;
+    background-size: cover;
+}
